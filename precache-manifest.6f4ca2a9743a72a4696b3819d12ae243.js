@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b4e2af6070e79fb7a24954597c86d44",
+    "revision": "891456ba0c3fac255d6f9f81b5c6d658",
     "url": "/image-compressor/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/image-compressor/static/js/2.69fef3bc.chunk.js"
   },
   {
-    "revision": "57c7ec43fbd73feffaae",
-    "url": "/image-compressor/static/js/main.0315f0d2.chunk.js"
+    "revision": "6738c1614377f2c246d9",
+    "url": "/image-compressor/static/js/main.994a6278.chunk.js"
   },
   {
     "revision": "a2f10b2e2d0f4c040449",
